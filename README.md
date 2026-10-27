@@ -15,7 +15,7 @@
 **首选 123 云盘**（国内直连，最快）：
 
 ```
-https://4007093374.share.123pan.cn/123pan/adMowh-DbJ6v?pwd=ajnb
+https://4007093374.share.123pan.cn/123pan/adMowh-rbJ6v?pwd=ajnb
 提取码：ajnb
 ```
 
