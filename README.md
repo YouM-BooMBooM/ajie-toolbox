@@ -12,7 +12,14 @@
 
 ### 1. 下载
 
-**国内用户建议用加速链接**（GitHub 直连经常打不开，实测国内访问超时）：
+**首选 123 云盘**（国内直连，最快）：
+
+```
+https://4007093374.share.123pan.cn/123pan/adMowh-DbJ6v?pwd=ajnb
+提取码：ajnb
+```
+
+或者用 GitHub 加速链接（GitHub 直连经常打不开，实测国内访问超时）：
 
 ```
 https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.6.0/AJ-Toolbox-0.6.0-green.zip
