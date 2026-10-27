@@ -1,10 +1,16 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.6.0/AJ-Toolbox-0.6.0-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.6.0/AJ-Toolbox-0.6.0-green.zip",
-  "notes": "初始版本：抖音直播批量录制 + 评论收集 + 话术提取 + 状态自检",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Toolbox-0.7.0-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Toolbox-0.7.0-green.zip",
+  "notes": "中断恢复归回主播目录；新增运行环境一键安装；修 db.json BOM、半成品运行时、话术服务状态显示等 8 个问题",
   "publishedAt": "2026-10-27",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-DbJ6v?pwd=ajnb",
-  "pageNote": "123 云盘（提取码 ajnb，下载最快）"
+  "pageNote": "123 云盘（提取码 ajnb，下载最快）",
+  "runtime": {
+    "version": "0.7.0-cpu",
+    "url": "",
+    "sizeMB": 788,
+    "notes": "含 python.exe + funasr，解压即用"
+  }
 }
