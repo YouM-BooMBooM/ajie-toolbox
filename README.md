@@ -12,11 +12,21 @@
 
 ### 1. 下载
 
-到 [Releases](../../releases/latest) 页面，下载最新的：
+**国内用户建议用加速链接**（GitHub 直连经常打不开，实测国内访问超时）：
+
+```
+https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.6.0/AJ-Toolbox-0.6.0-green.zip
+```
+
+实测速度约 0.8 MB/s，整包 180 MB 大概 4 分钟。
+
+能正常访问 GitHub 的话，也可以到 [Releases](../../releases/latest) 页面直接下：
 
 ```
 AJ-Toolbox-x.y.z-green.zip    约 180 MB
 ```
+
+> 加速链接里的版本号要跟你要下的版本对上；新版出来时把 `v0.6.0` 换成对应的 tag 即可。
 
 ### 2. 解压
 
