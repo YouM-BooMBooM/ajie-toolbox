@@ -1,1 +1,6 @@
-{"version":"0.6.1","url":"https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest","notes":"测试更新检测","publishedAt":"2026-10-27"}
+{
+  "version": "0.6.0",
+  "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
+  "notes": "初始版本：抖音直播批量录制 + 评论收集 + 话术提取 + 状态自检",
+  "publishedAt": "2026-10-27"
+}
