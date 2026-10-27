@@ -9,8 +9,11 @@
   "pageNote": "123 云盘（提取码 ajnb，下载最快）",
   "runtime": {
     "version": "0.7.0-cpu",
-    "url": "",
+    "urls": [
+      "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Runtime-CPU-0.7.0.zip"
+    ],
+    "raw": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Runtime-CPU-0.7.0.zip",
     "sizeMB": 788,
-    "notes": "含 python.exe + funasr，解压即用"
+    "notes": "嵌入版 Python 3.12 + funasr + torch CPU，解压即用；有网盘地址时放数组第一位"
   }
 }
