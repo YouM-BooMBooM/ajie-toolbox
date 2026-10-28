@@ -1,10 +1,10 @@
 {
-  "version": "0.7.1",
+  "version": "0.8.1",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.1/AJ-Toolbox-0.7.1-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.1/AJ-Toolbox-0.7.1-green.zip",
-  "notes": "侧栏底部显示版本号和检查更新按钮；恢复归档归回主播目录；运行环境整包安装",
-  "publishedAt": "2026-10-27",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.1/AJ-Toolbox-0.8.1-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.1/AJ-Toolbox-0.8.1-green.zip",
+  "notes": "屏幕录制可选浏览器窗口、框选有提示、不再自动最小化；断流连续失败自动收尾；历史录像可按主播/时间一键压缩；在线人数实时刷新；占用统计修正",
+  "publishedAt": "2026-10-28",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-rbJ6v?pwd=ajnb",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
   "runtime": {
