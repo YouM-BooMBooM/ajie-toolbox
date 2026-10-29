@@ -5,7 +5,7 @@
   "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.4/AJ-Toolbox-0.8.4-green.zip",
   "notes": "去掉隐藏窗口调用 PowerShell（安全软件不再误报「隐藏执行PowerShell」）：清理残留 ffmpeg 改用 PID、解压改用 bsdtar、删除没人用的文件夹对话框接口",
   "publishedAt": "2026-10-29",
-  "page": "https://4007093374.share.123pan.cn/123pan/adMowh-dwO6v",
+  "page": "https://4007093374.share.123pan.cn/123pan/adMowh-bkH6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
   "runtime": {
     "version": "0.7.0-cpu",
@@ -13,7 +13,7 @@
       "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Runtime-CPU-0.7.0.zip"
     ],
     "raw": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.7.0/AJ-Runtime-CPU-0.7.0.zip",
-    "page": "https://4007093374.share.123pan.cn/123pan/adMowh-dwO6v",
+    "page": "https://4007093374.share.123pan.cn/123pan/adMowh-bkH6v",
     "pageNote": "123 云盘（提取码 ajnb）手动下载，比 GitHub 镜像快",
     "sizeMB": 788,
     "notes": "嵌入版 Python 3.12 + funasr + torch CPU，解压即用"
