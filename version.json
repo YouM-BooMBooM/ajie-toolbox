@@ -1,9 +1,9 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.2/AJ-Toolbox-0.8.2-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.2/AJ-Toolbox-0.8.2-green.zip",
-  "notes": "反风控升级：每个主播独立身份（Cookie/存储隔离），被风控只重置该主播；风控时自动切浏览器通道；检测间隔按主播数自动放大并加 ±30% 随机抖动",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.3/AJ-Toolbox-0.8.3-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.3/AJ-Toolbox-0.8.3-green.zip",
+  "notes": "熔断修复：起录、断流重连、添加主播三条路径都接入 IP 级风控熔断；冷却期内完全不发请求（30→60→120 分钟逐级）",
   "publishedAt": "2026-10-29",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-dwO6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
