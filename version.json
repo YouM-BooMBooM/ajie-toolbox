@@ -1,10 +1,10 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.4/AJ-Toolbox-0.8.4-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.4/AJ-Toolbox-0.8.4-green.zip",
-  "notes": "去掉隐藏窗口调用 PowerShell（安全软件不再误报「隐藏执行PowerShell」）：清理残留 ffmpeg 改用 PID、解压改用 bsdtar、删除没人用的文件夹对话框接口",
-  "publishedAt": "2026-10-29",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.5/AJ-Toolbox-0.8.5-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.5/AJ-Toolbox-0.8.5-green.zip",
+  "notes": "新增「视频工具」：视频消声 / 人声分离（Demucs AI）/ 视频转码（H.264/H.265）/ 视频合并；修复打包版启动崩溃、asar 解包、ASR 工作目录、分离类型映射等 6 个 bug",
+  "publishedAt": "2026-11-01",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-bkH6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
   "runtime": {
