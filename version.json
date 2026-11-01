@@ -22,5 +22,12 @@
     "page": "https://4007093374.share.123pan.cn/123pan/adMowh-hjm6v",
     "sizeMB": 74.4,
     "note": "人声分离 AI 模型包（Demucs htdemucs），在视频工具页选 zip 安装"
+  },
+  "deps": {
+    "page": "https://4007093374.share.123pan.cn/123pan/adMowh-fwO6v",
+    "name": "AJ-Deps-CPU-0.8.6.zip",
+    "sizeMB": 861.9,
+    "note": "依赖包：话术运行环境（Python+funasr+torch）+ 人声分离模型（Demucs），一个包全装好",
+    "sha256": "78682B295E4431E92C7CCC2DDAEA08879D47CD1DE19F2D7B825012EEE3A05222"
   }
 }
