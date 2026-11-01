@@ -1,9 +1,9 @@
 {
-  "version": "0.8.5",
+  "version": "0.8.6",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.5/AJ-Toolbox-0.8.5-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.5/AJ-Toolbox-0.8.5-green.zip",
-  "notes": "新增「视频工具」：视频消声 / 人声分离（Demucs AI）/ 视频转码（H.264/H.265）/ 视频合并；修复打包版启动崩溃、asar 解包、ASR 工作目录、分离类型映射等 6 个 bug",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.6/AJ-Toolbox-0.8.6-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.6/AJ-Toolbox-0.8.6-green.zip",
+  "notes": "人声分离支持「模型包」一键安装（本地 zip）；按时段分层检测（窗口内 60 秒、窗口外 20 分钟，请求量降 84%）；环境不全时明确提示并禁用开始按钮",
   "publishedAt": "2026-11-01",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-bkH6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
