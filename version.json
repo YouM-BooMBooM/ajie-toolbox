@@ -1,10 +1,10 @@
 {
-  "version": "0.8.7",
+  "version": "0.8.8",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.7/AJ-Toolbox-0.8.7-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.7/AJ-Toolbox-0.8.7-green.zip",
-  "notes": "依赖包合二为一：一个 zip 同时装好话术运行环境和人声分离模型；安装器会自动把 demucs 模型放进正确目录",
-  "publishedAt": "2026-11-01",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.8/AJ-Toolbox-0.8.8-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.8/AJ-Toolbox-0.8.8-green.zip",
+  "notes": "省空间压缩只保留 720p（360p/480p 太糊已去掉），媒体处理的「省空间」板块置顶",
+  "publishedAt": "2026-11-02",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-pwO6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
   "runtime": {
