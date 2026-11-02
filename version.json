@@ -1,9 +1,9 @@
 {
-  "version": "0.8.8",
+  "version": "0.8.9",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.8/AJ-Toolbox-0.8.8-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.8/AJ-Toolbox-0.8.8-green.zip",
-  "notes": "省空间压缩只保留 720p（360p/480p 太糊已去掉），媒体处理的「省空间」板块置顶",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.9/AJ-Toolbox-0.8.9-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.9/AJ-Toolbox-0.8.9-green.zip",
+  "notes": "重启后立刻补检在播/过期主播（以前要等 8~20 分钟才开始录）；压缩只保留 720p；省空间置顶",
   "publishedAt": "2026-11-02",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-pwO6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
