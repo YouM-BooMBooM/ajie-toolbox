@@ -1,9 +1,9 @@
 {
-  "version": "0.8.9",
+  "version": "0.9.0",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
-  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.9/AJ-Toolbox-0.8.9-green.zip",
-  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.8.9/AJ-Toolbox-0.8.9-green.zip",
-  "notes": "重启后立刻补检在播/过期主播（以前要等 8~20 分钟才开始录）；压缩只保留 720p；省空间置顶",
+  "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.9.0/AJ-Toolbox-0.9.0-green.zip",
+  "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.9.0/AJ-Toolbox-0.9.0-green.zip",
+  "notes": "压缩只保留 720p；省空间置顶；压缩后自动清冗余 m4a 音轨；新增「扫描未登记文件」（可导入或移入回收站）和「清空回收站」；重启后立刻补检在播主播",
   "publishedAt": "2026-11-02",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-pwO6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
