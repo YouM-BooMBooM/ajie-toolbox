@@ -1,10 +1,10 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "url": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/latest",
   "asset": "https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.9.1/AJ-Toolbox-0.9.1-green.zip",
   "mirror": "https://ghfast.top/https://github.com/YouM-BooMBooM/ajie-toolbox/releases/download/v0.9.1/AJ-Toolbox-0.9.1-green.zip",
-  "notes": "开场动画更新：副标题轮播当前六大功能（直播录制/屏幕录制/视频工具/话术提取/评论收集/媒体处理），右下角显示版本号",
-  "publishedAt": "2026-11-02",
+  "notes": "P0 失败告警+数据库原子写/备份+今日抓取率；P1 单一持久身份+回退闸门；解冻后只探一个；断流15分钟自动归档；UI 回放实时预览/自检一屏/侧栏录制红点",
+  "publishedAt": "2026-11-03",
   "page": "https://4007093374.share.123pan.cn/123pan/adMowh-ykH6v",
   "pageNote": "123 云盘（提取码 ajnb）· 安装包 + 运行环境包都在里面",
   "runtime": {
